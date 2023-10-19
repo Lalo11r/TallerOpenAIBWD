@@ -1,0 +1,48 @@
+Datos de la empresa Big Wave Data (BWD)      
+        - Empleados actuales:
+            1. Nombre: John Smith, Cargo: Desarrollador Senior
+            2. Nombre: Sarah Johnson, Cargo: Desarrollador Senior
+            3. Nombre: Michael Williams, Cargo: Desarrollador Front-end
+            4. Nombre: Emily Brown, Cargo: Desarrollador Back-end
+            5. Nombre: Christopher Davis, Cargo: Ingeniero de Software
+            6. Nombre: Olivia Miller, Cargo: Desarrollador Full-stack
+            7. Nombre: Daniel Jones, Cargo: Diseñador UX/UI
+            8. Nombre: Sophia Wilson, Cargo: Desarrollador Front-end
+            9. Nombre: David Lee, Cargo: Desarrollador Back-end
+            10. Nombre: Emma Martinez, Cargo: Desarrollador Junior
+            11. Nombre: Matthew Taylor, Cargo: Ingeniero de Calidad
+            12. Nombre: Ava White, Cargo: Diseñador de Experiencia de Usuario
+            13. Nombre: James Harris, Cargo: Analista de Negocios
+            14. Nombre: Mia Rodriguez, Cargo: Desarrollador Full-stack
+            15. Nombre: William Moore, Cargo: Gerente de Proyecto
+            16. Nombre: Sophia Clark, Cargo: Ingeniero de Pruebas
+            17. Nombre: Alexander Scott, Cargo: Desarrollador Senior
+            18. Nombre: Isabella Turner, Cargo: Diseñador Gráfico
+            19. Nombre: Benjamin Hall, Cargo: Desarrollador Front-end
+            20. Nombre: Amelia Evans, Cargo: Desarrollador Back-end
+            21. Nombre: Samuel King, Cargo: Analista de Datos
+            22. Nombre: Harper Allen, Cargo: Desarrollador Junior
+            23. Nombre: Joseph Wright, Cargo: Desarrollador Full-stack
+
+        - Mision:
+            En Big Wave Data, nuestra misión es impulsar la innovación a través de soluciones de software de vanguardia. Nos dedicamos a ofrecer a nuestros clientes productos y servicios de calidad excepcional, diseñados para impulsar sus objetivos comerciales y tecnológicos. 
+        - Vision:
+            En Big Wave Data, nuestra visión es liderar la industria de desarrollo de software, siendo reconocidos globalmente por nuestra innovación y excelencia en el diseño y entrega de soluciones tecnológicas. 
+        - Director General: 
+            Luis Cancino Culebro
+        - Objetivo:
+            El objetivo de Big Wave Data (BWD) es ser el líder en innovación y excelencia en el desarrollo de software, proporcionando soluciones tecnológicas de vanguardia que transformen la forma en que las empresas operan y crecen. Buscamos brindar a nuestros clientes soluciones personalizadas de alta calidad que maximicen su eficiencia y competitividad en un mundo digital en constante evolución.
+        - Ubicación:
+            Limbasi Ta:Matar, Valle Oriente, 387530 N.L.
+        - Telefono:
+            81 1193 0694
+        - Fundación:
+            Diciembre 2013
+
+
+Sobre nosotros
+Somos "hardcore" desarrolladores de origen , venimos de empresas grandes y globales, siempre desarrollando tecnología de punta y disruptiva, principalmente desarrollamos APPs y otros servicios en la nube como Rest API's, bases de datos basadas en la nube, BI en la nube, etc., pero también nos integramos a soluciones empresariales como SAP, Oracle o incluso aplicaciones Legacy.
+Estamos muy orgullosos de ser Techies (y geeks) pero también orgullosos de poder hablar con fluidez tu idioma de negocios, ¿por qué? porque nuestros líderes son MBA y "battle-hardened" analistas de negocios  siempre en contacto / contacto con la estrategia comercial.
+
+Especialidades
+.Net C#, Azure, Tableau, Business Intelligence, Internet Of Things, Integración a SAP, SQL Server, Azure SQL, MySQL, WordPress, PHP, HTML5, JS5, CSS3, Android Apps, iOs Apps, Rest APIs, Virtual Machines, Java, PL/SQL, TSQL, Azure Active Directory, APP Services, Function APPs, Recursos Humanos, Oracle y Larabel

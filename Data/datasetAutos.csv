@@ -1,0 +1,1001 @@
+id,auto,fabricante,fecha_venta,cantidad_vendida,pais_venta,costo
+1,E-Series,Ford,2/16/2022,3,Mexico,$4669.88
+2,SL-Class,Mercedes-Benz,10/18/2016,7,Mexico,$5807.37
+3,A3,Audi,2/5/2023,2,United States,$5808.80
+4,Taurus,Ford,6/26/2017,10,United States,$7418.92
+5,Sportage,Kia,12/9/2017,5,Canada,$7740.99
+6,Grand Prix,Pontiac,9/26/2022,5,Canada,$7590.00
+7,300SD,Mercedes-Benz,12/11/2021,5,United States,$5177.41
+8,Town Car,Lincoln,9/5/2022,1,United States,$5355.51
+9,Camry,Toyota,7/18/2019,3,United States,$6907.77
+10,C-Class,Mercedes-Benz,12/27/2022,1,Mexico,$1911.63
+11,Econoline E350,Ford,11/15/2017,3,Canada,$7966.19
+12,Scirocco,Volkswagen,2/19/2021,5,United States,$8280.49
+13,Mirage,Mitsubishi,3/7/2023,2,Mexico,$6862.66
+14,Exige,Lotus,4/13/2019,1,United States,$950.08
+15,Dakota,Dodge,3/15/2020,5,United States,$6107.95
+16,LeBaron,Chrysler,7/20/2019,10,Mexico,$2366.19
+17,Galaxie,Ford,8/24/2019,7,Canada,$6226.06
+18,IS F,Lexus,10/25/2016,1,Canada,$7588.15
+19,NX,Nissan,1/2/2018,10,Mexico,$1267.45
+20,Familia,Mazda,12/21/2020,2,United States,$6552.75
+21,NSX,Acura,12/12/2021,1,United States,$5053.33
+22,CLS-Class,Mercedes-Benz,9/26/2023,6,Mexico,$6884.30
+23,SL-Class,Mercedes-Benz,8/18/2019,2,Canada,$6641.64
+24,HHR,Chevrolet,4/20/2021,3,United States,$4614.31
+25,MR2,Toyota,12/3/2020,8,Mexico,$8799.33
+26,Sentra,Nissan,11/30/2022,7,United States,$2083.63
+27,Silverado 2500,Chevrolet,7/10/2019,7,United States,$4202.61
+28,Grand Am,Pontiac,12/9/2021,6,Mexico,$4081.30
+29,Grand Caravan,Dodge,8/14/2018,10,Mexico,$8264.65
+30,Mustang,Ford,7/1/2020,10,United States,$9651.48
+31,Silverado 2500,Chevrolet,10/24/2016,7,United States,$2176.42
+32,S-Class,Mercedes-Benz,3/18/2021,9,United States,$2738.14
+33,Clubman,MINI,2/8/2018,3,Mexico,$8128.25
+34,Town & Country,Chrysler,2/17/2020,6,United States,$891.32
+35,Integra,Acura,7/26/2018,8,Mexico,$6341.30
+36,Ram 1500,Dodge,8/26/2023,4,Canada,$7367.28
+37,Mariner,Mercury,3/11/2021,7,United States,$6041.44
+38,Regal,Buick,9/19/2021,5,United States,$7549.28
+39,Taurus,Ford,6/8/2021,8,Mexico,$2014.96
+40,Accord,Honda,11/28/2021,1,Mexico,$2192.20
+41,525,BMW,2/7/2023,8,Mexico,$6129.12
+42,FX,Infiniti,6/8/2017,4,United States,$6351.84
+43,DB9,Aston Martin,9/20/2021,3,Canada,$3873.91
+44,599 GTB Fiorano,Ferrari,6/28/2018,3,United States,$3886.38
+45,A3,Audi,4/26/2021,10,Canada,$1206.93
+46,Grand Prix,Pontiac,11/30/2021,5,United States,$6910.80
+47,Eclipse,Mitsubishi,3/31/2022,4,United States,$9562.24
+48,Silhouette,Oldsmobile,1/3/2020,8,Mexico,$9813.77
+49,Cayenne,Porsche,11/1/2019,6,United States,$1294.91
+50,Regal,Buick,1/5/2019,1,Mexico,$1767.97
+51,9000,Saab,9/26/2021,5,Mexico,$7591.62
+52,Vision,Eagle,9/24/2023,7,United States,$1876.88
+53,Civic,Honda,6/15/2022,1,Mexico,$9255.36
+54,Ram 2500,Dodge,3/28/2021,7,Canada,$9331.68
+55,3000GT,Mitsubishi,9/29/2019,4,Canada,$1492.56
+56,Camaro,Chevrolet,11/29/2022,2,Canada,$3094.42
+57,MR2,Toyota,10/8/2020,7,Canada,$2580.18
+58,Solara,Toyota,11/11/2019,8,Canada,$205.85
+59,LeSabre,Buick,11/3/2022,3,Mexico,$9856.14
+60,Expedition,Ford,9/18/2018,1,Canada,$1221.93
+61,Envoy XL,GMC,3/4/2017,4,United States,$8510.97
+62,Explorer,Ford,4/9/2020,9,United States,$6168.65
+63,E250,Ford,6/30/2017,8,United States,$5508.30
+64,Silverado,Chevrolet,2/24/2017,2,Mexico,$9875.14
+65,Camry,Toyota,7/24/2021,8,Mexico,$297.71
+66,Sable,Mercury,6/12/2017,9,Mexico,$8385.06
+67,Silhouette,Oldsmobile,9/21/2023,9,United States,$704.15
+68,S-Class,Mercedes-Benz,4/7/2023,1,United States,$220.25
+69,Quest,Nissan,11/25/2019,3,United States,$3121.27
+70,W126,Mercedes-Benz,11/9/2017,5,United States,$9976.27
+71,L-Series,Saturn,12/11/2020,7,United States,$1091.35
+72,F350,Ford,6/19/2021,2,Canada,$1782.68
+73,Jetta III,Volkswagen,1/13/2022,4,Canada,$4614.75
+74,Frontier,Nissan,5/19/2017,7,United States,$8118.07
+75,Ram Van B150,Dodge,12/29/2022,6,United States,$4793.75
+76,Q7,Audi,11/2/2022,10,Mexico,$1143.07
+77,New Beetle,Volkswagen,12/9/2022,7,Canada,$8668.38
+78,Corrado,Volkswagen,6/19/2019,1,United States,$3316.12
+79,Thunderbird,Ford,4/26/2023,4,Canada,$2767.88
+80,Rio,Kia,3/21/2018,7,United States,$9797.70
+81,Grand Marquis,Mercury,3/23/2021,9,United States,$4470.20
+82,B-Series,Mazda,5/1/2019,10,Mexico,$2001.71
+83,57,Maybach,7/12/2022,4,Canada,$764.13
+84,Diamante,Mitsubishi,12/6/2017,4,United States,$125.03
+85,Range Rover,Land Rover,11/15/2022,4,Canada,$9749.56
+86,GTO,Mitsubishi,12/26/2017,3,Mexico,$7383.10
+87,A8,Audi,3/6/2018,5,Canada,$7007.39
+88,Spectra,Kia,4/18/2021,8,United States,$7150.71
+89,Phantom,Rolls-Royce,11/10/2022,9,Mexico,$9259.51
+90,S40,Volvo,3/16/2022,7,Canada,$5438.77
+91,Sequoia,Toyota,5/12/2019,10,Canada,$8996.74
+92,Altima,Nissan,4/6/2017,5,Canada,$8767.14
+93,MX-5,Mazda,12/13/2021,3,Mexico,$5531.68
+94,LSS,Oldsmobile,7/26/2020,9,United States,$3573.14
+95,Century,Buick,4/1/2019,9,United States,$6870.51
+96,Cooper,MINI,4/14/2017,8,United States,$6198.83
+97,5 Series,BMW,1/4/2020,5,United States,$4228.53
+98,Forester,Subaru,4/15/2023,10,Canada,$4504.88
+99,Eclipse,Mitsubishi,3/21/2017,6,United States,$4893.96
+100,Envoy,GMC,5/9/2018,9,United States,$2094.47
+101,Frontier,Nissan,11/20/2016,10,United States,$4891.46
+102,Grand Marquis,Mercury,6/26/2023,4,Canada,$2250.39
+103,Ramcharger,Dodge,10/30/2016,9,Mexico,$5076.39
+104,929,Mazda,5/1/2017,1,United States,$8085.69
+105,Mini Cooper,Austin,6/21/2018,7,Mexico,$4614.90
+106,Exige,Lotus,3/19/2017,5,Mexico,$70.70
+107,Q,Infiniti,3/19/2019,5,United States,$2727.34
+108,Integra,Acura,5/31/2019,6,United States,$3657.16
+109,LeSabre,Buick,6/29/2023,7,Mexico,$9804.10
+110,Arnage,Bentley,11/26/2022,1,Canada,$6791.50
+111,Avenger,Dodge,7/26/2018,2,Mexico,$2945.28
+112,Dynasty,Dodge,4/18/2018,8,Mexico,$8061.62
+113,Element,Honda,8/30/2023,4,Mexico,$9048.50
+114,Explorer,Ford,12/19/2016,9,United States,$5316.42
+115,XT,Subaru,8/3/2017,8,Canada,$3663.50
+116,XC70,Volvo,4/18/2018,8,Canada,$9960.61
+117,TL,Acura,1/3/2021,10,United States,$7785.03
+118,Lancer Evolution,Mitsubishi,11/6/2018,9,Mexico,$6398.23
+119,Wrangler,Jeep,10/28/2017,6,Canada,$2761.52
+120,Firebird,Pontiac,1/19/2022,7,United States,$9726.82
+121,Bonneville,Pontiac,3/11/2019,1,Canada,$554.28
+122,Escort,Ford,8/26/2019,5,United States,$7748.22
+123,MKS,Lincoln,1/23/2020,9,Canada,$3562.91
+124,Accent,Hyundai,1/4/2020,8,Canada,$5362.04
+125,V40,Volvo,11/25/2021,10,United States,$6550.92
+126,Thunderbird,Ford,7/8/2017,2,Canada,$3770.61
+127,M,Infiniti,4/23/2021,1,Canada,$681.69
+128,Corvette,Chevrolet,5/22/2017,9,Canada,$1006.05
+129,Prelude,Honda,5/13/2018,4,United States,$4134.90
+130,Accord,Honda,7/31/2022,7,Canada,$9700.30
+131,E150,Ford,2/2/2018,5,Canada,$5212.39
+132,1500,GMC,10/11/2020,1,United States,$9646.45
+133,Frontier,Nissan,7/31/2020,2,Mexico,$190.74
+134,Caravan,Dodge,11/25/2019,5,Canada,$692.93
+135,Ram 50,Dodge,9/25/2020,6,United States,$3890.41
+136,Neon,Plymouth,4/11/2021,5,Mexico,$8294.42
+137,Exige,Lotus,8/26/2020,5,United States,$5003.25
+138,SJ,Suzuki,11/13/2022,1,Canada,$3123.67
+139,Grand Caravan,Dodge,7/15/2018,2,United States,$4247.00
+140,Millenia,Mazda,8/22/2020,9,United States,$2799.27
+141,Talon,Eagle,7/28/2022,3,Mexico,$1108.74
+142,3 Series,BMW,11/15/2021,5,Mexico,$5888.38
+143,Prowler,Plymouth,1/6/2020,7,United States,$9537.34
+144,Coupe,Maserati,2/15/2021,5,Canada,$9713.66
+145,Bonneville,Pontiac,10/19/2022,5,United States,$3490.24
+146,XC90,Volvo,2/11/2020,2,United States,$7997.48
+147,Silverado 2500,Chevrolet,1/5/2020,5,Mexico,$6069.24
+148,6000,Pontiac,3/30/2019,10,Canada,$6660.18
+149,Thunderbird,Ford,4/3/2020,7,United States,$8985.61
+150,Cutlass Supreme,Oldsmobile,11/19/2021,4,United States,$9220.55
+151,F-Series,Ford,3/13/2020,10,United States,$4935.88
+152,Sable,Mercury,9/8/2023,3,United States,$9006.51
+153,Mirage,Mitsubishi,12/6/2020,10,Mexico,$9374.06
+154,Neon,Plymouth,9/1/2023,1,United States,$6526.85
+155,IS,Lexus,4/14/2022,4,United States,$5293.86
+156,1500,GMC,3/14/2021,7,United States,$1194.59
+157,S-Class,Mercedes-Benz,9/7/2017,4,Mexico,$2695.30
+158,Caravan,Dodge,4/24/2021,10,United States,$6660.62
+159,Montana,Pontiac,4/14/2019,8,Mexico,$2076.63
+160,911,Porsche,10/18/2018,2,United States,$3454.35
+161,Freestar,Ford,9/22/2020,10,United States,$7356.38
+162,330,BMW,2/21/2017,3,United States,$1145.59
+163,Matrix,Toyota,12/15/2022,4,United States,$6646.32
+164,Ram 1500,Dodge,8/27/2023,4,United States,$8997.67
+165,Prius v,Toyota,10/31/2019,6,United States,$3607.37
+166,SLR McLaren,Mercedes-Benz,2/27/2023,6,Canada,$6274.73
+167,Corsica,Chevrolet,12/16/2019,9,United States,$110.12
+168,LS,Lexus,12/8/2021,6,United States,$140.64
+169,9-2X,Saab,11/1/2016,4,United States,$7489.87
+170,Savana 3500,GMC,11/22/2020,6,Mexico,$2102.25
+171,Grand Marquis,Mercury,9/30/2019,8,United States,$9201.93
+172,9000,Saab,9/9/2020,7,Canada,$6286.59
+173,G,Infiniti,10/27/2020,10,United States,$2115.32
+174,C8 Spyder,Spyker,5/7/2020,6,United States,$8394.10
+175,S6,Audi,9/1/2017,10,Mexico,$8265.19
+176,Range Rover,Land Rover,2/1/2019,5,United States,$403.72
+177,6000,Pontiac,2/12/2017,7,Canada,$9694.92
+178,Silverado 3500,Chevrolet,9/13/2019,3,United States,$2995.71
+179,Range Rover,Land Rover,2/18/2018,5,Canada,$802.36
+180,Veracruz,Hyundai,11/18/2019,3,United States,$569.14
+181,H1,Hummer,12/12/2020,3,United States,$1795.61
+182,Sunfire,Pontiac,5/23/2022,3,Canada,$8547.26
+183,Rio,Kia,5/9/2022,1,Canada,$1399.12
+184,Sable,Mercury,4/7/2021,5,Canada,$8010.76
+185,Vanquish S,Aston Martin,8/26/2019,1,Canada,$2915.62
+186,3 Series,BMW,12/25/2021,6,Mexico,$3838.88
+187,RX-8,Mazda,9/27/2020,3,United States,$6386.87
+188,Aerostar,Ford,4/15/2017,10,United States,$2757.81
+189,Sonoma Club Coupe,GMC,2/27/2017,7,Mexico,$1381.47
+190,Murciélago,Lamborghini,10/10/2022,7,Canada,$706.78
+191,Galant,Mitsubishi,1/15/2020,1,Mexico,$7713.13
+192,Aerostar,Ford,7/10/2022,10,Mexico,$8035.74
+193,Insight,Honda,1/24/2022,7,United States,$8212.70
+194,LS,Lincoln,7/9/2023,8,United States,$8001.45
+195,Protege,Mazda,9/19/2019,3,Canada,$252.53
+196,Lancer,Mitsubishi,8/4/2020,8,Mexico,$5934.80
+197,Accent,Hyundai,9/7/2023,2,United States,$6133.46
+198,Excel,Hyundai,12/14/2020,6,United States,$2954.89
+199,Escort,Ford,1/16/2021,2,Mexico,$400.51
+200,Accord,Honda,8/30/2018,1,Canada,$7518.55
+201,Corolla,Toyota,3/26/2019,3,United States,$1640.85
+202,Caravan,Dodge,9/14/2019,9,Canada,$1598.44
+203,Tundra,Toyota,1/12/2023,8,Canada,$6752.58
+204,Xtra,Toyota,2/24/2022,8,United States,$8807.70
+205,rio,Volkswagen,6/2/2023,5,United States,$9451.10
+206,Cougar,Mercury,11/23/2021,1,Mexico,$3005.32
+207,4Runner,Toyota,7/3/2023,6,United States,$4157.52
+208,MP4-12C,McLaren,2/10/2023,8,Canada,$3407.17
+209,Cordia,Mitsubishi,5/22/2019,4,Mexico,$4546.29
+210,Xterra,Nissan,10/7/2017,5,Canada,$756.56
+211,Expedition,Ford,2/18/2019,2,United States,$7243.48
+212,Maxima,Nissan,8/9/2022,9,United States,$7904.70
+213,Veyron,Bugatti,11/6/2019,3,United States,$7014.24
+214,Galant,Mitsubishi,8/30/2021,3,Mexico,$9043.93
+215,Voyager,Plymouth,12/12/2019,6,United States,$6516.95
+216,S2000,Honda,5/28/2022,8,United States,$1879.99
+217,Elan,Lotus,9/10/2023,7,United States,$8975.48
+218,Metro,Chevrolet,9/21/2017,9,Canada,$562.52
+219,Caprice Classic,Chevrolet,12/3/2022,2,Canada,$7.89
+220,3 Series,BMW,3/28/2022,1,United States,$3269.20
+221,3500,GMC,1/31/2020,4,United States,$9450.85
+222,Touareg 2,Volkswagen,9/23/2022,1,Canada,$8472.84
+223,Continental,Lincoln,5/7/2018,6,United States,$4523.79
+224,Miata MX-5,Mazda,11/19/2022,3,United States,$3156.46
+225,CLS-Class,Mercedes-Benz,1/16/2017,4,United States,$6128.19
+226,Montero Sport,Mitsubishi,10/23/2018,7,Mexico,$7186.24
+227,Ram 2500,Dodge,5/4/2020,7,United States,$4331.28
+228,Grand Am,Pontiac,12/8/2016,7,Canada,$6737.56
+229,LS,Lexus,10/31/2021,8,Canada,$9644.92
+230,Aveo,Chevrolet,3/17/2020,1,Mexico,$8616.95
+231,LaCrosse,Buick,4/5/2019,3,Canada,$8709.37
+232,Celica,Toyota,11/4/2020,7,Canada,$7645.66
+233,G-Series 2500,Chevrolet,5/17/2018,3,United States,$8635.92
+234,Cutlass Supreme,Oldsmobile,2/25/2022,8,Canada,$2121.95
+235,Q5,Audi,11/14/2018,1,United States,$5325.51
+236,Sierra 1500,GMC,2/5/2020,3,Mexico,$3313.88
+237,Rendezvous,Buick,7/1/2018,4,United States,$1593.69
+238,Excel,Hyundai,3/19/2021,2,United States,$8938.02
+239,Golf,Volkswagen,11/22/2021,2,United States,$641.53
+240,Malibu,Chevrolet,4/29/2021,10,Canada,$5580.47
+241,FR-S,Scion,9/5/2018,9,United States,$5516.64
+242,SLS-Class,Mercedes-Benz,12/17/2021,8,United States,$3767.89
+243,Astro,Chevrolet,4/23/2018,7,Mexico,$4374.90
+244,Ram 1500,Dodge,4/11/2019,10,United States,$7678.93
+245,M,Infiniti,8/5/2020,5,United States,$9995.33
+246,Trooper,Isuzu,1/15/2022,1,Canada,$2484.92
+247,Baja,Subaru,3/23/2022,2,Canada,$4440.12
+248,Stratus,Dodge,7/23/2019,6,Canada,$5144.31
+249,Aviator,Lincoln,4/28/2020,6,Mexico,$110.58
+250,X5,BMW,10/30/2016,10,United States,$9243.54
+251,Corvette,Chevrolet,3/1/2020,6,United States,$1356.15
+252,Z8,BMW,2/4/2018,3,United States,$5353.82
+253,X3,BMW,10/5/2020,8,United States,$2303.48
+254,1500 Club Coupe,GMC,10/19/2019,2,United States,$7066.26
+255,Suburban 2500,Chevrolet,5/16/2017,7,United States,$3329.17
+256,850,Volvo,9/13/2022,2,Canada,$3702.77
+257,2500,GMC,2/5/2022,5,Mexico,$9692.64
+258,760,BMW,1/30/2023,7,United States,$5110.35
+259,Rogue,Nissan,1/11/2019,9,Canada,$2694.06
+260,Beretta,Chevrolet,2/24/2022,5,United States,$9791.15
+261,Transit Connect,Ford,9/23/2021,6,Mexico,$4763.92
+262,B-Series,Mazda,7/21/2023,8,United States,$3409.05
+263,Santa Fe,Hyundai,12/11/2019,10,United States,$7595.16
+264,MX-6,Mazda,7/29/2020,5,Mexico,$1331.37
+265,ES,Lexus,9/20/2023,5,United States,$503.12
+266,LeSabre,Buick,9/20/2018,7,Mexico,$2668.88
+267,Savana,GMC,1/15/2023,4,United States,$9899.00
+268,Sierra 2500,GMC,10/26/2019,7,Canada,$8244.18
+269,Diamante,Mitsubishi,11/7/2022,10,United States,$340.15
+270,5000CS,Audi,8/23/2020,1,United States,$4020.53
+271,Corvette,Chevrolet,10/25/2016,7,Mexico,$8983.27
+272,XC70,Volvo,12/7/2020,5,United States,$4210.92
+273,Focus,Ford,7/2/2020,10,Canada,$8191.34
+274,Wrangler,Jeep,5/1/2023,9,Canada,$7517.96
+275,Interceptor,Jensen,6/23/2022,3,Mexico,$7332.86
+276,G,Infiniti,9/15/2023,7,Mexico,$2363.52
+277,626,Mazda,6/19/2017,7,Mexico,$4934.95
+278,9-3,Saab,4/1/2017,6,Canada,$9375.14
+279,Civic,Honda,6/6/2017,6,United States,$2067.73
+280,Explorer,Ford,10/8/2016,10,United States,$9104.08
+281,Element,Honda,12/2/2017,2,United States,$2317.57
+282,tC,Scion,4/22/2022,2,United States,$57.74
+283,Montero,Mitsubishi,6/28/2022,1,Mexico,$9794.81
+284,Truck,Mitsubishi,1/20/2023,4,Canada,$6019.11
+285,911,Porsche,10/26/2017,7,Mexico,$5722.05
+286,Riviera,Buick,11/17/2019,4,Canada,$8349.58
+287,62,Maybach,10/15/2016,3,United States,$3125.96
+288,Cooper Clubman,MINI,11/19/2017,10,United States,$3910.92
+289,J,Infiniti,12/31/2021,6,Canada,$8881.27
+290,Focus,Ford,11/12/2020,7,United States,$7783.76
+291,Challenger,Dodge,10/15/2017,2,United States,$4738.17
+292,Legacy,Subaru,5/5/2021,6,Mexico,$5174.12
+293,Sierra 1500,GMC,5/1/2018,5,United States,$1549.88
+294,Sidekick,Suzuki,2/13/2021,1,United States,$1843.33
+295,SRX,Cadillac,3/6/2018,1,Mexico,$4274.88
+296,LTD Crown Victoria,Ford,8/15/2019,2,Mexico,$4239.97
+297,4Runner,Toyota,5/19/2019,1,United States,$2836.72
+298,Continental,Lincoln,3/7/2022,4,Canada,$8919.68
+299,Mazda3,Mazda,3/30/2019,9,Canada,$4155.66
+300,Explorer Sport Trac,Ford,9/22/2018,6,Canada,$2667.72
+301,600SEC,Mercedes-Benz,9/4/2018,2,United States,$1264.67
+302,Grand Prix,Pontiac,3/20/2022,3,Canada,$2536.65
+303,RX,Lexus,3/20/2021,5,United States,$4219.77
+304,Diablo,Lamborghini,8/21/2021,5,Mexico,$9751.95
+305,Safari,GMC,2/27/2021,4,United States,$8020.53
+306,5 Series,BMW,3/31/2021,1,Mexico,$3016.07
+307,Savana,GMC,11/25/2021,9,United States,$8000.46
+308,X6,BMW,3/15/2018,5,United States,$7580.31
+309,Electra,Buick,8/16/2022,5,United States,$8705.05
+310,Magnum,Dodge,5/13/2021,3,United States,$4617.82
+311,Laser,Plymouth,6/7/2021,4,United States,$4183.68
+312,R32,Volkswagen,10/30/2021,6,Canada,$2134.64
+313,LS Hybrid,Lexus,5/9/2020,6,United States,$6945.35
+314,4Runner,Toyota,12/30/2021,9,United States,$5137.14
+315,Econoline E150,Ford,12/2/2020,5,Mexico,$7935.85
+316,DeVille,Cadillac,4/3/2021,6,Mexico,$4418.97
+317,Ram Van B350,Dodge,2/28/2017,3,United States,$9180.48
+318,Durango,Dodge,8/25/2021,8,Canada,$5521.64
+319,Scoupe,Hyundai,12/20/2019,5,United States,$3413.34
+320,B-Series,Mazda,6/23/2023,7,United States,$3746.95
+321,Protege,Mazda,11/8/2021,4,United States,$3152.81
+322,Th!nk,Ford,8/6/2018,9,Canada,$8182.01
+323,Stratus,Dodge,8/22/2018,6,Canada,$3536.38
+324,S2000,Honda,4/29/2022,9,Canada,$4590.94
+325,Voyager,Chrysler,9/21/2022,2,Canada,$9107.14
+326,Club Wagon,Ford,8/17/2017,3,United States,$946.54
+327,325,BMW,4/10/2020,8,United States,$9044.53
+328,Galant,Mitsubishi,11/24/2019,3,United States,$7563.56
+329,9-3,Saab,10/21/2018,9,United States,$2349.06
+330,Thunderbird,Ford,11/26/2022,6,United States,$2687.34
+331,944,Porsche,7/27/2017,2,United States,$45.09
+332,4Runner,Toyota,1/17/2022,9,United States,$8893.48
+333,Reatta,Buick,4/4/2017,5,United States,$6694.23
+334,MKS,Lincoln,8/12/2018,8,Canada,$9310.80
+335,GS,Lexus,8/15/2019,1,Mexico,$8854.15
+336,Canyon,GMC,2/11/2018,8,United States,$6069.03
+337,Z4 M,BMW,8/27/2021,4,United States,$8343.26
+338,A3,Audi,2/19/2019,6,United States,$1405.67
+339,Terraza,Buick,7/21/2018,7,Canada,$527.16
+340,Econoline E150,Ford,5/26/2022,3,Canada,$2366.93
+341,Z3,BMW,8/10/2020,8,United States,$3572.62
+342,Sonata,Hyundai,11/9/2021,3,United States,$7696.51
+343,4Runner,Toyota,5/28/2020,10,Canada,$1806.07
+344,H1,Hummer,12/2/2022,1,United States,$6366.91
+345,300,Chrysler,4/7/2021,10,United States,$7535.80
+346,Sonoma Club Coupe,GMC,2/15/2022,2,Mexico,$2593.34
+347,Eclipse,Mitsubishi,9/7/2020,10,United States,$9949.26
+348,Passat,Volkswagen,7/21/2019,8,United States,$3131.62
+349,525,BMW,9/19/2017,3,United States,$2325.09
+350,RDX,Acura,1/29/2019,4,United States,$5232.99
+351,Pajero,Mitsubishi,7/18/2023,3,United States,$7012.90
+352,Camry,Toyota,8/20/2021,10,Canada,$8539.30
+353,Achieva,Oldsmobile,5/6/2018,10,United States,$3048.68
+354,Raider,Mitsubishi,10/18/2021,8,Canada,$971.09
+355,Sportage,Kia,11/24/2016,10,United States,$6502.09
+356,Vandura 2500,GMC,10/25/2019,1,Mexico,$8104.44
+357,Esprit,Lotus,4/19/2023,1,United States,$5550.55
+358,Passat,Volkswagen,2/17/2019,10,United States,$7964.35
+359,900,Saab,3/11/2019,2,United States,$8027.52
+360,Focus,Ford,6/27/2017,3,United States,$4307.37
+361,Metro,Geo,9/22/2022,4,Canada,$4669.94
+362,Protege,Mazda,12/27/2021,2,United States,$9107.59
+363,Concorde,Chrysler,10/12/2022,5,United States,$311.28
+364,Festiva,Ford,5/24/2019,7,Canada,$1084.43
+365,300D,Mercedes-Benz,7/11/2021,1,Mexico,$3596.25
+366,E250,Ford,9/26/2019,5,United States,$5847.42
+367,Forenza,Suzuki,7/1/2022,6,United States,$3864.67
+368,Accent,Hyundai,6/17/2020,2,Canada,$6010.25
+369,S40,Volvo,12/4/2017,1,United States,$5807.79
+370,Silverado 3500,Chevrolet,7/22/2023,6,Mexico,$8704.89
+371,Jetta,Volkswagen,12/12/2016,6,United States,$5978.23
+372,Defender,Land Rover,1/7/2020,8,Canada,$4647.90
+373,MX-5,Mazda,5/9/2021,6,United States,$9473.15
+374,911,Porsche,7/18/2020,4,Canada,$1506.38
+375,CL-Class,Mercedes-Benz,4/21/2020,8,United States,$1215.40
+376,Avalon,Toyota,3/11/2019,6,Mexico,$443.78
+377,FR-S,Scion,10/15/2020,2,United States,$8882.27
+378,Eclipse,Mitsubishi,4/25/2018,8,United States,$7083.17
+379,Trans Sport,Pontiac,1/6/2021,10,Mexico,$1653.79
+380,Fifth Ave,Chrysler,4/19/2021,3,United States,$7472.56
+381,Corvette,Chevrolet,8/18/2023,7,Canada,$4661.59
+382,Cavalier,Chevrolet,8/19/2021,5,United States,$2033.03
+383,Cavalier,Chevrolet,6/21/2019,3,United States,$167.26
+384,Grand Prix,Pontiac,4/20/2022,8,United States,$3181.12
+385,300E,Mercedes-Benz,9/28/2019,7,United States,$1616.03
+386,Achieva,Oldsmobile,5/23/2019,5,Canada,$1378.22
+387,3500,Chevrolet,8/5/2020,4,United States,$5632.29
+388,Camry,Toyota,11/8/2018,5,United States,$7116.27
+389,Mentor,Kia,8/15/2018,4,Mexico,$6084.82
+390,S-Class,Mercedes-Benz,8/3/2019,4,Mexico,$2908.85
+391,RX-7,Mazda,11/16/2016,9,Canada,$2653.29
+392,M,Infiniti,7/3/2019,10,Canada,$9268.68
+393,Freestar,Ford,6/17/2018,3,Canada,$8219.70
+394,Endeavor,Mitsubishi,11/6/2021,2,United States,$3935.40
+395,Grand Caravan,Dodge,5/13/2019,1,United States,$3845.67
+396,Econoline E150,Ford,2/24/2022,4,Canada,$3900.18
+397,5 Series,BMW,4/10/2021,10,Mexico,$2452.60
+398,Leaf,Nissan,10/15/2018,2,Canada,$8914.39
+399,Silhouette,Oldsmobile,3/1/2023,6,Canada,$2418.79
+400,Avalanche,Chevrolet,6/22/2017,3,United States,$4571.15
+401,K5 Blazer,Chevrolet,7/18/2019,1,United States,$7631.94
+402,SL-Class,Mercedes-Benz,6/13/2018,7,Canada,$6255.60
+403,Tempo,Ford,3/22/2018,1,United States,$8256.37
+404,Sienna,Toyota,7/1/2023,7,Canada,$1213.46
+405,2500 Club Coupe,GMC,10/28/2020,4,United States,$1492.95
+406,Grand Caravan,Dodge,1/29/2023,8,United States,$9259.96
+407,Escalade ESV,Cadillac,1/26/2021,10,United States,$9395.95
+408,Galant,Mitsubishi,2/12/2023,8,United States,$8807.24
+409,D150,Dodge,8/11/2018,5,United States,$4532.87
+410,Corvette,Chevrolet,8/8/2021,1,United States,$4827.68
+411,Ram Van 2500,Dodge,9/8/2022,10,Mexico,$7413.66
+412,MDX,Acura,9/7/2021,5,Canada,$7963.46
+413,FF,Ferrari,1/22/2023,4,United States,$2258.46
+414,Celica,Toyota,7/5/2021,10,United States,$3471.33
+415,3500,GMC,1/8/2017,10,Mexico,$6526.98
+416,Chariot,Mitsubishi,4/10/2020,9,Canada,$2600.61
+417,Grand Cherokee,Jeep,4/29/2019,7,United States,$4434.31
+418,Quest,Nissan,12/16/2021,1,United States,$5575.52
+419,xA,Scion,9/24/2020,2,United States,$8491.07
+420,Cougar,Mercury,3/12/2021,9,Canada,$8923.43
+421,Vision,Eagle,11/21/2020,10,Mexico,$5832.82
+422,Accord,Honda,8/4/2022,1,United States,$7391.09
+423,Sonoma,GMC,5/23/2019,9,Mexico,$6455.76
+424,Tracer,Mercury,3/1/2018,6,United States,$8314.55
+425,Century,Buick,10/19/2018,9,United States,$149.96
+426,Xterra,Nissan,1/25/2020,9,United States,$5199.35
+427,Sebring,Chrysler,5/7/2019,5,Mexico,$2729.52
+428,Town Car,Lincoln,6/24/2019,7,Canada,$6938.10
+429,GTI,Volkswagen,11/21/2018,4,United States,$5733.48
+430,Dynasty,Dodge,4/18/2021,9,Canada,$7109.30
+431,Sable,Mercury,1/13/2023,7,Mexico,$2433.77
+432,Compass,Jeep,1/11/2020,2,Mexico,$1228.96
+433,530,BMW,2/28/2019,10,United States,$3848.40
+434,GTI,Volkswagen,4/3/2018,9,Mexico,$7937.68
+435,300D,Mercedes-Benz,6/15/2018,2,Mexico,$1282.39
+436,Sable,Mercury,2/12/2021,3,United States,$396.54
+437,Ram 3500 Club,Dodge,10/25/2021,1,Mexico,$983.74
+438,599 GTB Fiorano,Ferrari,4/30/2023,2,Canada,$3780.06
+439,650,BMW,7/25/2017,5,United States,$1288.10
+440,LeSabre,Buick,11/12/2016,10,United States,$9558.82
+441,TundraMax,Toyota,5/20/2020,3,United States,$5936.31
+442,911,Porsche,11/1/2022,7,Canada,$7117.23
+443,Ram 3500,Dodge,11/20/2017,1,Mexico,$8506.80
+444,Commander,Jeep,7/29/2023,6,Canada,$212.26
+445,Vibe,Pontiac,8/27/2018,1,Mexico,$3215.97
+446,S-Series,Saturn,2/8/2018,5,United States,$5828.62
+447,9-3,Saab,7/9/2023,1,United States,$8246.04
+448,D350,Dodge,11/17/2019,5,Mexico,$2858.76
+449,Grand Caravan,Dodge,3/13/2019,7,Canada,$2751.90
+450,IS,Lexus,7/16/2022,6,United States,$6947.10
+451,Challenger,Mitsubishi,8/25/2017,4,Canada,$9705.14
+452,New Beetle,Volkswagen,4/30/2018,9,Canada,$2846.99
+453,Ram 3500 Club,Dodge,10/2/2020,6,Canada,$2027.73
+454,Electra,Buick,9/6/2020,8,United States,$9544.36
+455,Sentra,Nissan,7/20/2021,5,United States,$9658.95
+456,F-Series,Ford,7/21/2022,3,United States,$956.49
+457,Skyhawk,Buick,3/14/2023,5,Canada,$1615.75
+458,Cordia,Mitsubishi,1/29/2023,4,United States,$4741.46
+459,Ghost,Rolls-Royce,8/22/2020,6,Canada,$9973.83
+460,TL,Acura,10/18/2017,1,Canada,$2803.23
+461,Accord,Honda,3/23/2022,10,United States,$1733.49
+462,Town Car,Lincoln,12/30/2020,10,United States,$8869.90
+463,Galant,Mitsubishi,5/20/2017,3,United States,$787.30
+464,Elantra,Hyundai,8/31/2023,6,Canada,$5166.52
+465,4Runner,Toyota,7/10/2019,1,Canada,$715.20
+466,Regal,Buick,12/15/2020,7,United States,$2659.26
+467,SL-Class,Mercedes-Benz,5/5/2017,4,United States,$6550.13
+468,Trooper,Isuzu,8/23/2017,1,United States,$6136.73
+469,Tahoe,Chevrolet,8/1/2020,3,United States,$1628.66
+470,CR-V,Honda,1/14/2018,4,United States,$9622.27
+471,GT350,Shelby,3/10/2019,3,United States,$8272.03
+472,CR-V,Honda,6/5/2017,7,Mexico,$2986.30
+473,B-Series Plus,Mazda,6/24/2017,10,Mexico,$1536.20
+474,Cherokee,Jeep,7/18/2018,3,United States,$9968.23
+475,Mystique,Mercury,6/5/2022,6,Canada,$2871.82
+476,Caravan,Dodge,7/10/2021,3,United States,$9874.26
+477,Explorer,Ford,3/28/2021,6,United States,$3862.03
+478,Sedona,Kia,12/2/2021,6,United States,$1116.72
+479,Sonoma,GMC,7/18/2018,5,Mexico,$451.64
+480,626,Mazda,10/2/2021,9,United States,$9161.00
+481,Montana SV6,Pontiac,10/25/2019,3,Mexico,$9033.92
+482,GLI,Volkswagen,8/14/2021,9,Canada,$8400.70
+483,350Z,Nissan,12/10/2020,9,United States,$7330.26
+484,Touareg,Volkswagen,8/5/2020,8,Mexico,$9505.71
+485,Thunderbird,Ford,1/17/2019,5,United States,$2554.72
+486,SJ,Suzuki,8/22/2022,3,United States,$7285.85
+487,Azure T,Bentley,6/13/2023,8,United States,$3374.51
+488,E-Class,Mercedes-Benz,5/4/2019,5,United States,$8726.61
+489,Dakota,Dodge,6/5/2021,7,Canada,$9595.45
+490,E-Series,Ford,8/20/2018,4,Mexico,$1359.74
+491,Ram Van B150,Dodge,7/13/2021,10,United States,$6544.63
+492,Escalade ESV,Cadillac,6/1/2019,2,Canada,$2370.48
+493,Esprit,Lotus,2/19/2017,3,United States,$6896.13
+494,TSX,Acura,1/14/2022,10,United States,$2449.34
+495,Continental GTC,Bentley,3/2/2021,4,United States,$3304.22
+496,Equinox,Chevrolet,4/17/2021,1,United States,$6648.45
+497,Outback,Subaru,10/27/2019,3,United States,$2032.04
+498,Tribute,Mazda,6/10/2019,2,United States,$335.25
+499,XJ Series,Jaguar,5/26/2018,1,Canada,$2976.38
+500,Swift,Suzuki,12/2/2022,4,United States,$5032.91
+501,Crossfire,Chrysler,4/1/2022,6,Canada,$4193.15
+502,Neon,Dodge,11/28/2017,4,United States,$2774.89
+503,J,Infiniti,11/12/2018,3,Canada,$7807.92
+504,Avenger,Dodge,5/9/2020,5,United States,$2201.35
+505,SJ,Suzuki,10/19/2016,10,Canada,$9184.87
+506,Bonneville,Pontiac,8/2/2020,7,United States,$8729.90
+507,Mazda3,Mazda,7/3/2017,8,Canada,$1381.34
+508,Azera,Hyundai,10/6/2018,8,Canada,$8626.16
+509,Familia,Mazda,7/18/2020,6,United States,$2899.37
+510,Celica,Toyota,8/16/2017,5,United States,$2036.72
+511,Sierra 2500HD,GMC,5/2/2023,10,Canada,$6660.41
+512,XT,Subaru,1/17/2022,10,Mexico,$2448.01
+513,GTO,Pontiac,6/23/2019,2,Mexico,$6764.84
+514,Supra,Toyota,9/9/2023,10,United States,$4715.71
+515,911,Porsche,3/21/2018,3,United States,$9576.38
+516,MX-6,Mazda,3/24/2020,1,United States,$3473.75
+517,Mystique,Mercury,1/1/2022,2,United States,$6160.47
+518,Leganza,Daewoo,1/15/2019,2,Canada,$4498.18
+519,Pajero,Mitsubishi,2/9/2022,9,Mexico,$6558.91
+520,Rendezvous,Buick,9/14/2020,7,Canada,$5156.23
+521,Laser,Ford,4/17/2018,3,United States,$1509.87
+522,Titan,Nissan,2/21/2017,10,United States,$143.24
+523,Rogue,Nissan,7/21/2017,6,United States,$1382.05
+524,Laser,Plymouth,8/10/2022,6,United States,$4302.66
+525,GTI,Volkswagen,9/14/2019,3,Mexico,$2216.50
+526,Grand Prix,Pontiac,3/7/2023,6,Mexico,$87.00
+527,LeBaron,Chrysler,7/17/2023,3,United States,$5294.72
+528,Thunderbird,Ford,7/5/2019,1,United States,$7238.39
+529,CX-9,Mazda,11/27/2021,6,Mexico,$6283.47
+530,E250,Ford,1/24/2019,4,United States,$5391.90
+531,Avenger,Dodge,3/31/2018,3,Canada,$5373.77
+532,F450,Ford,2/13/2019,6,United States,$4918.85
+533,GTO,Mitsubishi,6/21/2020,3,United States,$6784.81
+534,NSX,Acura,6/12/2023,4,Canada,$7712.18
+535,Starion,Mitsubishi,6/4/2019,5,United States,$4347.18
+536,1500,Ram,3/25/2022,6,United States,$4583.10
+537,Mountaineer,Mercury,8/26/2018,2,Mexico,$8968.51
+538,G-Class,Mercedes-Benz,11/6/2021,6,United States,$1437.00
+539,Windstar,Ford,5/3/2023,8,Mexico,$7494.49
+540,Wrangler,Jeep,1/25/2019,1,Canada,$8393.93
+541,Spider,Alfa Romeo,1/22/2021,6,United States,$4092.24
+542,M-Class,Mercedes-Benz,1/17/2019,9,United States,$3588.53
+543,Daewoo Lacetti,Suzuki,11/3/2019,4,United States,$2068.12
+544,Eclipse,Mitsubishi,8/27/2019,2,Canada,$1605.03
+545,Alero,Oldsmobile,11/24/2016,5,United States,$5527.82
+546,Stealth,Dodge,9/7/2021,2,Canada,$2213.04
+547,GTI,Volkswagen,11/5/2018,3,United States,$8562.87
+548,Cutlass Supreme,Oldsmobile,4/30/2021,9,Canada,$9547.24
+549,G35,Infiniti,12/29/2022,6,United States,$4279.33
+550,Grand Marquis,Mercury,9/27/2020,9,Canada,$6252.84
+551,Roadmaster,Buick,8/14/2023,3,United States,$6105.70
+552,RX-7,Mazda,9/2/2021,1,United States,$7547.78
+553,98,Oldsmobile,5/24/2020,4,Canada,$771.26
+554,X-Type,Jaguar,7/17/2018,10,Canada,$4763.31
+555,9-7X,Saab,1/1/2020,10,Canada,$6729.17
+556,Econoline E250,Ford,2/24/2023,6,Mexico,$5382.82
+557,CL-Class,Mercedes-Benz,2/2/2017,6,United States,$2199.61
+558,Grand Prix,Pontiac,9/23/2021,10,Canada,$9458.25
+559,Cabriolet,Volkswagen,10/20/2022,6,Mexico,$9801.81
+560,Venture,Chevrolet,4/18/2023,6,Mexico,$5004.47
+561,H3,Hummer,10/3/2018,8,United States,$3472.39
+562,Ram 2500,Dodge,12/24/2018,1,United States,$6083.66
+563,Tundra,Toyota,8/14/2021,3,Canada,$8551.20
+564,Solara,Toyota,2/7/2023,5,United States,$5709.92
+565,R32,Volkswagen,7/5/2017,3,Mexico,$13.20
+566,C-Class,Mercedes-Benz,8/29/2017,7,Canada,$9182.18
+567,Tiburon,Hyundai,2/14/2022,3,United States,$1635.45
+568,3 Series,BMW,10/16/2019,5,United States,$8382.17
+569,Cutlass Supreme,Oldsmobile,10/21/2019,2,Canada,$942.91
+570,Viper,Dodge,7/29/2021,4,Canada,$7037.62
+571,Concorde,Chrysler,9/16/2018,6,Canada,$6571.20
+572,Grand Vitara,Suzuki,12/4/2018,10,Mexico,$532.56
+573,Xterra,Nissan,6/18/2019,4,Mexico,$4546.85
+574,Taurus,Ford,6/30/2020,1,Mexico,$3183.71
+575,B-Series,Mazda,3/12/2017,2,United States,$4410.95
+576,Grand Cherokee,Jeep,1/18/2022,8,Mexico,$2873.79
+577,Legacy,Subaru,7/9/2017,3,Canada,$3145.42
+578,CX-7,Mazda,4/14/2020,4,United States,$9054.76
+579,RX Hybrid,Lexus,11/22/2019,6,Mexico,$6469.48
+580,Tracer,Mercury,11/20/2018,4,Canada,$1226.46
+581,Vanquish S,Aston Martin,11/3/2021,7,Mexico,$6921.55
+582,Phaeton,Volkswagen,7/21/2021,5,Mexico,$2637.85
+583,Sierra 1500,GMC,4/26/2017,2,United States,$2980.56
+584,Safari,GMC,11/27/2019,8,United States,$7129.64
+585,Talon,Eagle,11/10/2019,10,Mexico,$239.13
+586,RS 4,Audi,9/11/2022,2,United States,$2206.77
+587,430,Maserati,1/16/2023,5,Canada,$9980.28
+588,TSX,Acura,6/29/2017,5,United States,$1215.58
+589,Crown Victoria,Ford,5/23/2023,4,Canada,$8638.05
+590,X-90,Suzuki,10/12/2016,7,Canada,$6897.28
+591,Forester,Subaru,1/22/2021,10,Canada,$8648.63
+592,DB9,Aston Martin,5/27/2017,4,United States,$8765.29
+593,LTD Crown Victoria,Ford,12/14/2020,8,Canada,$656.92
+594,FJ Cruiser,Toyota,7/28/2023,6,United States,$2331.61
+595,Accord,Honda,7/1/2023,8,United States,$9967.64
+596,Silverado 1500,Chevrolet,3/31/2022,6,United States,$8980.12
+597,Ram,Dodge,3/17/2020,3,Canada,$994.45
+598,Spirit,Dodge,3/1/2018,9,United States,$2840.75
+599,Solstice,Pontiac,9/7/2019,1,United States,$1930.57
+600,9000,Saab,6/30/2021,6,Canada,$2820.24
+601,Veloster,Hyundai,12/16/2017,10,Canada,$8931.73
+602,100,Audi,11/25/2022,4,United States,$6706.44
+603,Galant,Mitsubishi,12/16/2022,5,Mexico,$884.85
+604,Sorento,Kia,2/14/2018,6,United States,$4786.50
+605,B-Series Plus,Mazda,7/31/2019,10,United States,$9215.20
+606,Cultus,Suzuki,10/15/2018,1,United States,$3006.92
+607,Passat,Volkswagen,6/22/2022,2,Canada,$444.42
+608,TL,Acura,5/30/2020,3,Mexico,$3008.94
+609,M,Infiniti,6/9/2023,9,United States,$7700.50
+610,Ranger,Ford,1/1/2019,10,Mexico,$8984.61
+611,Avalanche 1500,Chevrolet,5/9/2021,8,United States,$54.74
+612,Cooper Clubman,MINI,3/15/2022,10,Mexico,$6214.81
+613,Bronco,Ford,2/10/2020,5,United States,$577.62
+614,Frontier,Nissan,7/1/2019,2,United States,$1738.92
+615,Frontier,Nissan,5/29/2023,5,Mexico,$5867.19
+616,80,Audi,6/7/2017,8,Canada,$2613.13
+617,Imperial,Chrysler,4/14/2022,4,Mexico,$1259.17
+618,Bronco II,Ford,12/18/2016,3,Mexico,$8419.36
+619,Azure T,Bentley,4/10/2023,8,Canada,$6774.59
+620,Supra,Toyota,3/14/2022,4,United States,$4833.20
+621,S-Class,Mercedes-Benz,6/13/2023,4,Canada,$2890.99
+622,900,Saab,5/21/2023,3,Canada,$4671.78
+623,Range Rover,Land Rover,3/13/2022,9,Canada,$1940.13
+624,MPV,Mazda,4/15/2019,7,United States,$4207.29
+625,Town Car,Lincoln,6/14/2021,10,Mexico,$8451.40
+626,California,Ferrari,10/4/2019,9,United States,$4940.36
+627,G8,Pontiac,7/19/2023,7,United States,$5243.41
+628,RX,Lexus,4/5/2021,5,Canada,$5812.18
+629,S2000,Honda,11/4/2016,9,United States,$8958.21
+630,Dakota,Dodge,1/23/2020,3,United States,$6008.27
+631,F250,Ford,5/13/2021,9,Mexico,$7709.94
+632,E250,Ford,5/28/2019,3,United States,$5510.40
+633,V40,Volvo,7/16/2021,7,United States,$4040.27
+634,Expo,Mitsubishi,6/16/2020,2,Canada,$3549.23
+635,Enclave,Buick,6/30/2018,9,United States,$526.25
+636,3000GT,Mitsubishi,5/17/2018,4,United States,$7027.92
+637,S2000,Honda,1/23/2020,8,Canada,$7086.40
+638,Grand Caravan,Dodge,11/24/2022,8,United States,$1919.02
+639,Dakota Club,Dodge,9/15/2021,9,Canada,$4716.99
+640,B-Series,Mazda,1/20/2019,9,United States,$1666.35
+641,Suburban 2500,GMC,10/16/2022,10,United States,$14.64
+642,Eurovan,Volkswagen,8/21/2023,8,Mexico,$7491.39
+643,Savana 1500,GMC,5/19/2023,8,United States,$8421.88
+644,Rendezvous,Buick,8/30/2018,7,United States,$2764.61
+645,Escape,Ford,9/20/2019,3,Mexico,$276.32
+646,Escort,Ford,5/16/2017,4,United States,$5394.00
+647,Dakota Club,Dodge,1/28/2020,4,United States,$4546.77
+648,Shadow,Dodge,5/18/2017,10,Mexico,$4644.72
+649,Element,Honda,10/1/2016,7,United States,$7413.34
+650,LeSabre,Buick,8/22/2021,2,United States,$1515.02
+651,Maxima,Nissan,1/1/2023,7,Mexico,$3489.67
+652,Aspen,Chrysler,10/20/2020,6,Canada,$4540.74
+653,LeSabre,Buick,4/9/2018,1,Canada,$274.23
+654,Daewoo Lacetti,Suzuki,12/11/2016,6,Mexico,$3444.31
+655,LX,Lexus,5/3/2017,3,Mexico,$7604.38
+656,Sonoma,GMC,4/6/2023,8,Mexico,$9481.14
+657,Yukon XL 2500,GMC,4/6/2021,5,Mexico,$3146.28
+658,Skyhawk,Buick,7/14/2022,5,Mexico,$4057.87
+659,Ram 2500,Dodge,1/25/2023,2,United States,$9313.48
+660,500E,Mercedes-Benz,12/4/2022,6,Canada,$81.87
+661,Caravan,Dodge,8/17/2022,2,United States,$6137.57
+662,Bravada,Oldsmobile,12/3/2022,3,United States,$3709.62
+663,Canyon,GMC,3/18/2020,2,Canada,$3242.82
+664,Freestar,Ford,12/3/2019,5,United States,$4737.38
+665,Eos,Volkswagen,12/8/2016,10,United States,$5138.46
+666,612 Scaglietti,Ferrari,1/15/2017,2,Canada,$1047.74
+667,RAV4,Toyota,8/31/2018,4,Canada,$3311.71
+668,Legacy,Subaru,2/20/2020,1,Mexico,$6479.21
+669,Civic,Honda,12/4/2017,5,United States,$972.60
+670,Azera,Hyundai,12/28/2022,8,Canada,$3762.41
+671,DTS,Cadillac,1/11/2021,9,Canada,$1255.75
+672,QX56,Infiniti,2/6/2020,5,Canada,$831.36
+673,G,Infiniti,12/29/2016,8,Mexico,$2291.30
+674,Land Cruiser,Toyota,5/6/2018,7,Canada,$5650.45
+675,RX,Lexus,1/8/2018,4,Canada,$3058.48
+676,Achieva,Oldsmobile,12/21/2021,1,United States,$3039.98
+677,Grand Marquis,Mercury,6/14/2017,3,United States,$5477.44
+678,Focus,Ford,4/24/2019,2,United States,$9188.15
+679,Grand Marquis,Mercury,4/6/2023,8,United States,$9240.32
+680,Ram 1500,Dodge,5/19/2023,10,United States,$4988.48
+681,8 Series,BMW,9/11/2023,8,Mexico,$4543.17
+682,V90,Volvo,12/21/2019,8,United States,$5468.45
+683,SL-Class,Mercedes-Benz,3/16/2019,3,Mexico,$6807.65
+684,Sable,Mercury,2/16/2022,10,Canada,$8121.82
+685,Galant,Mitsubishi,12/13/2021,10,Mexico,$4300.16
+686,Caprice,Chevrolet,3/17/2021,2,United States,$4706.92
+687,F150,Ford,10/9/2018,6,United States,$1023.40
+688,G-Class,Mercedes-Benz,3/10/2022,1,United States,$1459.90
+689,LeBaron,Chrysler,7/28/2019,10,United States,$8572.89
+690,Yukon XL 2500,GMC,12/11/2022,5,United States,$117.68
+691,Taurus,Ford,8/19/2022,5,Mexico,$6014.80
+692,CLK-Class,Mercedes-Benz,7/1/2020,4,United States,$4165.70
+693,Roadmaster,Buick,6/10/2018,5,Canada,$8701.75
+694,Ram Van B150,Dodge,7/2/2019,7,Canada,$3331.16
+695,Taurus,Ford,4/29/2021,8,United States,$503.59
+696,Continental GTC,Bentley,9/25/2017,9,Canada,$1239.31
+697,Compass,Jeep,1/31/2018,3,Canada,$2221.84
+698,7 Series,BMW,12/19/2022,1,Canada,$9892.15
+699,Rally Wagon G2500,GMC,6/6/2018,3,United States,$9925.86
+700,Durango,Dodge,10/31/2017,1,United States,$1604.43
+701,Prizm,Geo,8/15/2021,4,United States,$856.83
+702,Excel,Hyundai,10/10/2020,10,United States,$7881.63
+703,Firebird,Pontiac,10/13/2018,4,United States,$2870.02
+704,Tribute,Mazda,12/23/2018,10,Mexico,$2176.71
+705,Savana 2500,GMC,11/2/2017,1,Mexico,$3645.70
+706,F-Series,Ford,2/21/2021,10,United States,$8735.62
+707,Camry,Toyota,1/7/2019,4,Canada,$8327.36
+708,Passat,Volkswagen,11/22/2017,7,United States,$4882.40
+709,Santa Fe,Hyundai,7/22/2017,9,Mexico,$8749.37
+710,Cutlass Cruiser,Oldsmobile,12/16/2021,4,Mexico,$5828.63
+711,RX,Lexus,5/21/2018,4,United States,$2093.60
+712,Savana 2500,GMC,11/24/2021,1,United States,$826.67
+713,Traverse,Chevrolet,8/29/2019,9,Canada,$7856.61
+714,Boxster,Porsche,3/21/2023,7,United States,$4534.17
+715,Odyssey,Honda,10/21/2018,4,United States,$3515.11
+716,Grand Caravan,Dodge,11/24/2017,10,United States,$9963.27
+717,IS-F,Lexus,4/15/2021,9,United States,$7485.26
+718,Escalade,Cadillac,6/16/2021,10,United States,$6043.37
+719,F350,Ford,4/26/2022,5,Canada,$8256.33
+720,F250,Ford,11/10/2018,2,United States,$7684.76
+721,Grand Vitara,Suzuki,1/9/2019,3,United States,$8314.84
+722,Sunbird,Pontiac,11/1/2019,10,Canada,$8399.99
+723,NSX,Acura,9/19/2019,6,Mexico,$2628.07
+724,Pathfinder,Nissan,8/24/2017,8,United States,$9287.63
+725,Grand Vitara,Suzuki,7/5/2019,10,United States,$525.76
+726,DeVille,Cadillac,10/26/2018,3,United States,$946.83
+727,Ram 3500,Dodge,3/1/2019,6,United States,$5897.54
+728,Equator,Suzuki,1/26/2022,10,Canada,$8397.32
+729,Quantum,Volkswagen,7/29/2020,7,Canada,$3481.91
+730,Grand Vitara,Suzuki,12/27/2019,1,Mexico,$2634.18
+731,Sentra,Nissan,5/28/2018,9,United States,$3417.33
+732,Mariner,Mercury,4/20/2023,7,Mexico,$6638.90
+733,Quest,Nissan,4/16/2017,8,Canada,$5328.80
+734,Yukon XL 2500,GMC,6/23/2022,8,United States,$4863.81
+735,430 Scuderia,Ferrari,12/1/2018,9,Canada,$1146.20
+736,Explorer,Ford,9/2/2023,3,United States,$1463.24
+737,Town Car,Lincoln,6/10/2018,8,United States,$8088.30
+738,Imperial,Chrysler,7/28/2022,7,United States,$3039.79
+739,Camaro,Chevrolet,4/11/2023,10,Canada,$4164.79
+740,Impala,Chevrolet,9/14/2019,3,Canada,$2061.13
+741,Bonneville,Pontiac,12/2/2018,6,Mexico,$1785.34
+742,Roadmaster,Buick,9/14/2017,7,Mexico,$1843.82
+743,Sonic,Chevrolet,5/7/2017,7,United States,$7432.15
+744,Gran Sport,Maserati,4/9/2022,1,United States,$7508.95
+745,LSS,Oldsmobile,7/9/2023,9,United States,$5379.90
+746,Chariot,Mitsubishi,11/9/2019,5,Mexico,$7551.65
+747,CR-V,Honda,7/27/2022,7,Canada,$1389.44
+748,Somerset,Buick,2/15/2018,9,Canada,$4273.15
+749,Discovery,Land Rover,9/17/2020,5,United States,$4154.30
+750,Seville,Cadillac,3/30/2021,10,United States,$3723.61
+751,Crown Victoria,Ford,4/17/2021,7,Canada,$2978.86
+752,RS 4,Audi,11/5/2016,4,United States,$4324.44
+753,Commander,Jeep,5/5/2020,10,Mexico,$3235.12
+754,9-5,Saab,11/14/2016,9,Mexico,$3861.70
+755,LR2,Land Rover,5/19/2019,8,Mexico,$2861.25
+756,Mustang,Ford,2/20/2019,8,Canada,$2768.27
+757,PT Cruiser,Chrysler,11/1/2019,5,United States,$2426.13
+758,GS,Lexus,3/23/2021,2,Canada,$2985.39
+759,FCX Clarity,Honda,3/31/2022,8,United States,$7839.20
+760,Diablo,Lamborghini,1/3/2020,2,United States,$8830.91
+761,Taurus,Ford,6/6/2018,1,United States,$9264.62
+762,F450,Ford,7/22/2022,3,United States,$6309.69
+763,200SX,Nissan,7/6/2023,2,United States,$1473.37
+764,Camry,Toyota,8/15/2018,1,United States,$7568.67
+765,Caravan,Dodge,3/30/2022,10,United States,$8264.13
+766,Countach,Lamborghini,10/4/2017,7,Mexico,$6382.93
+767,Tercel,Toyota,9/18/2022,2,Canada,$3022.88
+768,Solara,Toyota,4/19/2020,9,Mexico,$3644.83
+769,Sonoma,GMC,10/21/2016,7,Mexico,$758.98
+770,Silverado 3500HD,Chevrolet,7/17/2017,2,United States,$4763.19
+771,S-Class,Mercedes-Benz,4/3/2023,9,Canada,$8954.07
+772,Bel Air,Chevrolet,7/30/2017,8,Canada,$8830.41
+773,Vision,Eagle,12/30/2017,9,United States,$4331.66
+774,Outlander Sport,Mitsubishi,7/25/2018,8,United States,$6004.50
+775,Miata MX-5,Mazda,5/27/2019,1,United States,$6274.13
+776,Sierra Denali,GMC,6/27/2021,5,Mexico,$5433.26
+777,F430,Ferrari,8/28/2017,5,United States,$6829.84
+778,Outlander Sport,Mitsubishi,3/6/2021,1,Mexico,$4827.13
+779,Discovery,Land Rover,6/11/2018,1,United States,$7587.69
+780,Pathfinder,Nissan,2/25/2017,10,United States,$3048.99
+781,New Beetle,Volkswagen,11/8/2021,8,Canada,$916.33
+782,LR2,Land Rover,12/15/2020,2,Canada,$3486.06
+783,6 Series,BMW,5/9/2017,9,Mexico,$4301.13
+784,Elantra,Hyundai,7/9/2023,10,Mexico,$4209.87
+785,Caravan,Dodge,8/18/2018,6,Canada,$5114.56
+786,Rio,Kia,4/9/2022,5,United States,$7718.53
+787,530,BMW,4/20/2017,1,Canada,$6859.07
+788,Amigo,Isuzu,11/17/2016,5,United States,$8017.96
+789,350Z Roadster,Nissan,2/21/2022,6,Mexico,$8608.74
+790,RX-7,Mazda,5/2/2023,8,United States,$3275.85
+791,Bonneville,Pontiac,5/31/2022,6,United States,$3415.54
+792,S10,Chevrolet,3/12/2020,2,Canada,$6795.82
+793,Savana,GMC,10/31/2022,3,Canada,$7589.91
+794,SC,Lexus,3/21/2021,7,United States,$3657.31
+795,Grand Cherokee,Jeep,2/1/2020,3,Mexico,$5373.78
+796,C70,Volvo,3/3/2023,2,United States,$3615.90
+797,Safari,Pontiac,12/24/2020,2,United States,$4292.67
+798,Sentra,Nissan,2/19/2017,8,Mexico,$5000.71
+799,SM,Citroën,10/1/2021,1,United States,$7672.55
+800,GX,Lexus,8/17/2017,8,United States,$8780.52
+801,XJ Series,Jaguar,1/30/2019,6,Canada,$1496.32
+802,Sidekick,Suzuki,8/9/2021,1,Canada,$1615.17
+803,Regal,Buick,3/13/2017,7,Canada,$7187.36
+804,STS,Cadillac,5/12/2018,6,United States,$9204.33
+805,NSX,Acura,2/9/2023,4,United States,$9865.80
+806,S6,Audi,6/5/2019,8,United States,$4792.79
+807,G-Series G30,Chevrolet,5/31/2019,5,United States,$5563.36
+808,Yukon XL 1500,GMC,8/26/2020,2,Mexico,$7844.68
+809,Discovery,Land Rover,11/5/2021,9,Mexico,$5764.02
+810,Continental Super,Bentley,7/20/2022,8,Canada,$7239.10
+811,Tercel,Toyota,1/31/2017,9,United States,$2044.59
+812,Ram Van 3500,Dodge,11/16/2022,4,United States,$398.51
+813,Space,Isuzu,11/27/2018,1,United States,$4139.66
+814,TT,Audi,8/23/2023,2,United States,$3055.23
+815,Savana 2500,GMC,11/11/2017,10,United States,$326.84
+816,F150,Ford,12/19/2022,8,United States,$1417.91
+817,New Beetle,Volkswagen,1/1/2023,7,Mexico,$9997.47
+818,Quattroporte,Maserati,7/4/2021,2,Mexico,$2125.35
+819,Eclipse,Mitsubishi,1/26/2019,7,United States,$6724.35
+820,New Beetle,Volkswagen,4/1/2023,8,Mexico,$9354.70
+821,Sierra 3500,GMC,9/21/2021,7,Mexico,$3010.37
+822,Cobalt,Chevrolet,2/21/2019,1,Canada,$965.79
+823,Breeze,Plymouth,4/3/2021,9,United States,$48.01
+824,Grand Cherokee,Jeep,8/4/2023,7,United States,$5967.80
+825,6000,Pontiac,2/21/2020,9,Mexico,$8493.03
+826,A4,Audi,4/16/2019,3,United States,$6518.43
+827,Tribute,Mazda,4/25/2020,6,Mexico,$7881.98
+828,Metro,Chevrolet,12/11/2022,1,United States,$7500.74
+829,B-Series Plus,Mazda,12/2/2019,2,United States,$5887.77
+830,ES,Lexus,9/23/2020,2,Canada,$2363.77
+831,Stealth,Dodge,7/27/2018,2,United States,$5682.40
+832,Grand Prix Turbo,Pontiac,3/24/2021,10,Canada,$8732.55
+833,Sonata,Hyundai,3/3/2022,2,Mexico,$3824.23
+834,Jimmy,GMC,5/11/2021,2,United States,$1591.51
+835,Murciélago,Lamborghini,7/19/2017,8,Mexico,$5348.08
+836,Rabbit,Volkswagen,8/8/2017,1,United States,$5066.34
+837,Elantra,Hyundai,7/21/2023,6,Canada,$6707.20
+838,626,Mazda,8/9/2022,9,United States,$4155.25
+839,Laser,Ford,7/22/2023,5,United States,$1629.61
+840,Town Car,Lincoln,5/24/2019,5,United States,$2135.08
+841,Integra,Acura,9/19/2018,7,United States,$8787.64
+842,M6,BMW,11/25/2016,3,United States,$3837.87
+843,SVX,Subaru,6/27/2023,7,Mexico,$6947.49
+844,S80,Volvo,8/2/2023,9,Canada,$2656.80
+845,Exige,Lotus,6/19/2017,1,Mexico,$2719.88
+846,M3,BMW,8/10/2022,1,United States,$670.50
+847,Corvette,Chevrolet,2/16/2019,8,United States,$6554.76
+848,Astra,Saturn,8/28/2023,7,United States,$5777.91
+849,Skylark,Buick,5/18/2019,1,United States,$6215.37
+850,RX,Lexus,7/27/2018,7,Mexico,$7564.65
+851,GT,Ford,4/27/2020,3,United States,$6213.08
+852,FJ Cruiser,Toyota,9/5/2019,6,United States,$7274.26
+853,X5,BMW,6/25/2017,9,United States,$1674.95
+854,Escalade ESV,Cadillac,10/27/2017,3,United States,$5139.31
+855,RX,Lexus,10/8/2022,7,United States,$5957.09
+856,Sebring,Chrysler,12/27/2022,2,United States,$7996.41
+857,Accord,Honda,3/8/2017,6,Canada,$2177.84
+858,Sunfire,Pontiac,7/25/2022,9,Canada,$1434.31
+859,Eos,Volkswagen,8/26/2022,4,Canada,$8790.35
+860,Prizm,Geo,9/30/2020,5,United States,$4982.69
+861,Navigator,Lincoln,4/7/2020,10,Canada,$4478.20
+862,Element,Honda,3/24/2022,6,Mexico,$6268.61
+863,Prius,Toyota,9/1/2017,8,Mexico,$1401.68
+864,Park Avenue,Buick,9/16/2023,2,United States,$7659.32
+865,Sienna,Toyota,2/16/2021,7,United States,$7710.23
+866,F250,Ford,6/8/2023,10,United States,$7055.60
+867,Explorer Sport Trac,Ford,10/16/2016,4,Canada,$6509.36
+868,940,Volvo,1/11/2019,7,Canada,$3327.31
+869,Taurus X,Ford,12/21/2019,5,Canada,$7765.13
+870,Vandura 1500,GMC,6/27/2021,6,United States,$5469.39
+871,Maxima,Nissan,7/1/2022,9,United States,$2487.96
+872,Mirage,Mitsubishi,1/10/2021,4,Mexico,$7014.87
+873,Camaro,Chevrolet,3/19/2021,4,United States,$2251.84
+874,Phantom,Rolls-Royce,1/30/2017,3,United States,$2564.85
+875,TT,Audi,8/21/2021,2,United States,$3371.07
+876,Grand Prix,Pontiac,6/5/2019,2,Mexico,$7594.01
+877,W201,Mercedes-Benz,10/20/2017,7,Mexico,$2715.76
+878,Pathfinder,Nissan,7/4/2022,7,Canada,$7174.85
+879,Frontier,Nissan,2/3/2020,7,United States,$1794.08
+880,Miata MX-5,Mazda,1/13/2021,6,United States,$4710.85
+881,E-Series,Ford,7/25/2023,10,United States,$7016.19
+882,Esprit,Lotus,11/24/2022,5,United States,$1401.17
+883,Mustang,Ford,11/24/2017,3,Mexico,$4373.37
+884,Pajero,Mitsubishi,12/4/2022,9,United States,$362.83
+885,Sequoia,Toyota,6/26/2023,1,United States,$3973.84
+886,Ram Van B250,Dodge,5/20/2018,8,Mexico,$3784.75
+887,Monaro,Holden,2/22/2021,3,United States,$8782.87
+888,Cooper,MINI,10/10/2017,7,United States,$5873.51
+889,Flex,Ford,1/25/2017,5,United States,$2563.75
+890,Fillmore,Fillmore,9/18/2018,8,Mexico,$8952.48
+891,Taurus,Ford,6/16/2020,3,United States,$3081.22
+892,Grand Cherokee,Jeep,12/23/2022,2,United States,$5899.89
+893,Topaz,Mercury,4/4/2017,1,Canada,$6737.86
+894,FJ Cruiser,Toyota,8/4/2020,8,United States,$5342.29
+895,4Runner,Toyota,8/1/2017,5,United States,$170.68
+896,Ram 2500,Dodge,12/16/2021,10,Canada,$1324.01
+897,Montana,Pontiac,3/11/2021,10,United States,$1897.04
+898,Venture,Chevrolet,8/24/2020,1,Mexico,$1149.14
+899,Sixty Special,Cadillac,11/30/2022,1,Mexico,$9489.48
+900,Suburban 2500,Chevrolet,11/3/2019,7,United States,$3353.23
+901,T100 Xtra,Toyota,6/4/2022,3,United States,$2595.81
+902,Chariot,Mitsubishi,2/16/2019,2,Canada,$7163.42
+903,Land Cruiser,Toyota,9/21/2020,1,United States,$3547.88
+904,Pajero,Mitsubishi,12/2/2017,8,Canada,$5779.38
+905,Endeavor,Mitsubishi,8/22/2017,5,Canada,$9791.74
+906,E-Series,Ford,5/27/2022,5,United States,$6490.71
+907,TrailBlazer,Chevrolet,7/21/2023,4,Mexico,$4467.35
+908,C-Class,Mercedes-Benz,9/11/2019,3,United States,$1854.41
+909,Dakota,Dodge,11/21/2019,2,Canada,$1363.75
+910,Neon,Dodge,10/26/2016,10,Mexico,$2456.89
+911,Miata MX-5,Mazda,7/14/2018,5,United States,$9598.61
+912,4Runner,Toyota,4/14/2020,3,United States,$636.63
+913,Park Avenue,Buick,7/2/2022,2,United States,$7915.23
+914,Tundra,Toyota,9/3/2020,7,United States,$5022.55
+915,Sunbird,Pontiac,5/23/2017,8,United States,$1915.15
+916,Stratus,Dodge,1/17/2021,1,Canada,$1570.68
+917,Celica,Toyota,9/4/2019,8,United States,$5177.89
+918,G,Infiniti,7/22/2018,1,United States,$7227.16
+919,Sienna,Toyota,7/3/2022,2,United States,$4919.91
+920,Diamante,Mitsubishi,5/19/2020,8,Canada,$570.57
+921,Grand Prix,Pontiac,8/31/2017,5,United States,$1614.34
+922,Paseo,Toyota,2/14/2021,2,United States,$7010.43
+923,911,Porsche,12/2/2022,2,Mexico,$5912.95
+924,Forenza,Suzuki,1/14/2020,5,United States,$540.87
+925,929,Mazda,3/22/2023,6,United States,$7305.25
+926,Range Rover,Land Rover,10/31/2018,5,United States,$5281.12
+927,Touareg 2,Volkswagen,9/3/2017,3,United States,$9455.85
+928,TrailBlazer,Chevrolet,3/30/2019,4,United States,$6283.19
+929,Suburban 1500,Chevrolet,5/5/2019,5,United States,$7621.06
+930,4000CS Quattro,Audi,10/16/2016,4,Mexico,$2979.71
+931,Firebird,Pontiac,10/25/2020,8,Canada,$1498.21
+932,300SL,Mercedes-Benz,4/16/2021,7,Mexico,$1075.01
+933,3 Series,BMW,1/21/2021,3,United States,$5721.39
+934,Econoline E350,Ford,1/16/2021,9,United States,$2372.67
+935,W201,Mercedes-Benz,7/21/2021,4,Canada,$5137.90
+936,90,Audi,3/20/2017,9,United States,$7486.72
+937,Murano,Nissan,7/14/2018,6,Canada,$260.42
+938,Wrangler,Jeep,7/18/2021,1,Canada,$8254.30
+939,Monaco,Dodge,5/5/2023,10,United States,$1382.92
+940,Thunderbird,Ford,6/24/2022,5,United States,$8929.39
+941,Prelude,Honda,9/26/2019,6,United States,$1968.31
+942,MR2,Toyota,2/2/2019,10,United States,$6827.95
+943,PT Cruiser,Chrysler,3/2/2020,9,United States,$7868.81
+944,Mark VII,Lincoln,2/21/2018,2,United States,$683.85
+945,Ranger,Ford,6/4/2023,4,Canada,$5259.52
+946,Endeavor,Mitsubishi,8/21/2023,1,Canada,$1384.91
+947,Grand Marquis,Mercury,9/21/2018,8,Canada,$7591.12
+948,Avalon,Toyota,1/21/2017,1,Canada,$5851.01
+949,Sable,Mercury,3/16/2019,5,Mexico,$169.49
+950,LHS,Chrysler,10/28/2020,5,Mexico,$904.73
+951,Parisienne,Pontiac,12/5/2018,10,United States,$3320.15
+952,SL-Class,Mercedes-Benz,5/27/2021,4,United States,$6883.33
+953,Topaz,Mercury,12/5/2016,8,United States,$2647.78
+954,Firebird,Pontiac,1/29/2018,6,United States,$1366.49
+955,Mustang,Ford,12/25/2021,5,United States,$6407.20
+956,A8,Audi,3/7/2023,3,United States,$9207.11
+957,Impala,Chevrolet,11/14/2016,2,United States,$8930.42
+958,Ram 1500,Dodge,1/2/2022,5,Canada,$4465.83
+959,XC90,Volvo,11/6/2017,8,Mexico,$6663.94
+960,G-Series G30,Chevrolet,2/1/2022,1,Mexico,$9427.13
+961,NSX,Acura,8/17/2021,2,United States,$6135.03
+962,Corolla,Toyota,5/7/2017,5,United States,$1719.06
+963,Suburban 2500,Chevrolet,10/15/2022,9,United States,$4736.87
+964,GTI,Volkswagen,2/16/2023,1,Canada,$8691.59
+965,Cavalier,Chevrolet,2/28/2018,4,Mexico,$4388.86
+966,Patriot,Jeep,12/4/2020,8,Canada,$8450.82
+967,Ram 1500,Dodge,12/22/2022,2,Mexico,$8129.63
+968,Town & Country,Chrysler,12/3/2020,1,United States,$7314.94
+969,Maxima,Nissan,7/22/2023,6,Canada,$7110.25
+970,Skylark,Buick,6/10/2021,10,United States,$2972.81
+971,CL-Class,Mercedes-Benz,3/2/2017,7,United States,$1242.09
+972,Express 1500,Chevrolet,6/15/2017,7,United States,$9340.81
+973,Ram 2500,Dodge,5/14/2019,7,United States,$8782.66
+974,Sprinter 3500,Mercedes-Benz,8/26/2018,8,Canada,$7482.10
+975,Cooper,MINI,4/1/2023,5,United States,$2287.54
+976,Grand Prix,Pontiac,12/20/2020,6,United States,$7389.90
+977,911,Porsche,8/2/2018,3,United States,$2396.92
+978,Grand Voyager,Plymouth,7/25/2022,8,United States,$4446.25
+979,Mazda6,Mazda,6/16/2017,4,Mexico,$9186.29
+980,TSX,Acura,5/6/2022,9,United States,$1010.16
+981,Caravan,Dodge,7/8/2021,1,Canada,$6474.24
+982,Golf,Volkswagen,12/7/2019,9,United States,$1198.24
+983,G25,Infiniti,9/21/2017,2,Mexico,$3126.96
+984,Accord,Honda,6/22/2022,8,Canada,$2559.65
+985,80,Audi,11/27/2020,7,United States,$1622.47
+986,Tacoma,Toyota,10/30/2021,7,Canada,$6814.82
+987,Caravan,Dodge,3/7/2023,8,Mexico,$7244.80
+988,Passat,Volkswagen,2/28/2019,10,Canada,$3595.27
+989,MX-5,Mazda,7/13/2021,8,Canada,$9445.09
+990,1 Series,BMW,1/27/2023,5,Canada,$3566.88
+991,B-Series,Mazda,8/22/2020,2,Mexico,$8127.20
+992,Mustang,Ford,1/19/2023,5,Mexico,$680.69
+993,Trooper,Isuzu,3/1/2018,6,United States,$5462.97
+994,Silhouette,Oldsmobile,2/1/2017,7,United States,$7634.83
+995,G35,Infiniti,6/9/2021,2,United States,$5160.43
+996,CT,Lexus,4/5/2017,7,Canada,$740.11
+997,Probe,Ford,4/19/2019,2,United States,$5989.79
+998,SVX,Subaru,10/10/2022,1,United States,$2938.50
+999,ZX2,Ford,7/12/2022,8,United States,$745.39
+1000,88,Oldsmobile,11/19/2018,8,Canada,$1655.05

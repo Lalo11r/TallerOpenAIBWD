@@ -1,0 +1,12 @@
+streamlit
+langchain
+openai
+python-dotenv
+streamlit-chat
+duckduckgo-search
+tabulate
+sentence-transformers
+chroma
+chromadb
+pypdf
+tiktoken
